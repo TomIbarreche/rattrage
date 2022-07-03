@@ -1,0 +1,19 @@
+
+1.2.B02 - Evaluate the feasability of a solution: étude prise de contact avec GDR, Eco-minéro ?
+
+2.2.B03: Organize a conference: Présentation ESS ou présentation de LEO !!!
+2.2.B04: Expose a personal idea: Modification de la page stock et refonte de la plage de planif
+2.4.B05 - Define communication requirements: Mise en place du slack + du workflow jira 
+2.5.B05 - Consider morality and ethics when proposing a solution: Passage de OVH à Infomaniak
+
+3.4.B01 - Refer to a design pattern: Event system on unity !!!
+3.4.B02 - Handle events in a HMI: Interaction utilisateur dans unity !!!
+3.4.B07 - Build a unit test: unity 
+
+5.4.B03 - Organize training sessions : POC PMCB
+
+
+0.2.B01 - Sum up information from an oral presentation: prise de note confluence V
+2.2.B01: Create a tutorial: Guide utilisateur !!! V
+3.1.B03 - Draw a use-case diagram: Workflow adhérents V
+4.3.B01 - Take handicaps into consideration when offering a service : mise en place du filter pour les daltoniens !!! MANQUE LES CAPTURE DU JEU
